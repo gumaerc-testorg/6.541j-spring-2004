@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: f157316d-30dd-4d77-08e2-32684237d457
 resourcetype: Document
 title: lab3_wavesurfer.pdf
 uid: 7e69f1d2-f853-3f31-2d63-ebe9a4d7e008

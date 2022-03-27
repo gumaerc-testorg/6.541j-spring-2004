@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: f157316d-30dd-4d77-08e2-32684237d457
 resourcetype: Document
 title: lab1_04_commands.pdf
 uid: 0a7ecacb-8175-edd2-aaf5-8f6b03d33cca
