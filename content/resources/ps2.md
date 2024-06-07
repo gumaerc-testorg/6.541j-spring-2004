@@ -2,6 +2,7 @@
 content_type: resource
 description: Reading assignment and problem set.
 file: /courses/6-541j-speech-communication-spring-2004/6395f0d246115bd6b54d83b042baf934_ps2.pdf
+file_size: 77414
 file_type: application/pdf
 learning_resource_types:
 - Assignments
