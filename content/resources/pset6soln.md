@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions for problem set.
 file: /courses/6-541j-speech-communication-spring-2004/e96d18138fe752aefe2868e01b025fbe_pset6soln.pdf
+file_size: 80640
 file_type: application/pdf
 learning_resource_types:
 - Assignments
