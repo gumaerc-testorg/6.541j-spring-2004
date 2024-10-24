@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions for problem set.
-file: /courses/6-541j-speech-communication-spring-2004/27d79a5938723d832d33b9e31db5afeb_pset2soln.pdf
+file: /ol-ocw-studio-app/courses/6-541j-speech-communication-spring-2004/27d79a5938723d832d33b9e31db5afeb_pset2soln.pdf
 file_size: 145685
 file_type: application/pdf
 learning_resource_types:
