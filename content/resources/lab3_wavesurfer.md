@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: This handout contains instructions for using lab recording equipment.
-file: /courses/6-541j-speech-communication-spring-2004/7e69f1d2f8533f312d63ebe9a4d7e008_lab3_wavesurfer.pdf
+file: /ol-ocw-studio-app/courses/6-541j-speech-communication-spring-2004/7e69f1d2f8533f312d63ebe9a4d7e008_lab3_wavesurfer.pdf
 file_size: 46121
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
